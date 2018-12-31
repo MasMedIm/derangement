@@ -6,7 +6,7 @@ Use this library to know the result !
 
 Base on this formula :
 
-![Formula](https://github.com/MasMedIm/derangement.git/formula.png)
+![Formula](https://github.com/MasMedIm/derangement/edit/master/formula.png)
 
 ## Getting Started
 
