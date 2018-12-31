@@ -1,0 +1,24 @@
+{
+  "name": "derangement",
+  "version": "1.0.0",
+  "description": "Solve the problem of counting derangements, written as !n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasMedIm/derangement.git"
+  },
+  "keywords": [
+    "Derangements",
+    "factorial",
+    "math"
+  ],
+  "author": "Salim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasMedIm/derangement/issues"
+  },
+  "homepage": "https://github.com/MasMedIm/derangement#readme"
+}
