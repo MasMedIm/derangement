@@ -4,7 +4,7 @@ Suppose that a professor gave a test to 4 students – A, B, C, and D – and wa
 
 Use this library to know the result !
 
-Base on this formula :
+Based on this formula :
 
 ![Formula](https://github.com/MasMedIm/derangement/edit/master/formula.png)
 
